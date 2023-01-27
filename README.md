@@ -718,11 +718,10 @@ contact.html
 ![image](https://user-images.githubusercontent.com/119103704/215162719-1f8c5394-fe6b-44fd-9ec0-3bf01fd2ed53.png)
 ![image](https://user-images.githubusercontent.com/119103704/215162751-dca2fb3d-4245-4b7f-9937-cd8041d42855.png)
 ![image](https://user-images.githubusercontent.com/119103704/215162777-74dad1c5-e83a-47c5-a4b6-57b9cbf4c048.png)
-![validdd](https://user-images.githubusercontent.com/119103704/215162828-07b18783-44cc-472a-94e9-700b9311afcc.png)
-
 
 ## HTML Validator
 
+![validdd](https://user-images.githubusercontent.com/119103704/215163055-07b31515-613e-48d1-b5c8-05dadcd786b9.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
